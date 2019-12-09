@@ -1,0 +1,24 @@
+html, body {
+	background: #33ee22;
+	font-size: 20px;
+}
+
+#root {
+	background: #dedede;
+	border: 3px dashed #ababab;
+	margin: 0 auto;
+	text-align: center;
+	width: 600px;
+}
+
+h1 {
+	font-size: 2.5rem;
+}
+
+.colorChange {
+	border-radius: .33rem;
+	height: 2.5rem;
+	margin: 0 auto;
+	width: 25rem;
+}
+
